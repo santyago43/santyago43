@@ -17,6 +17,9 @@ Hello, fellow code voyager! 👋 I'm Santiago, a passionate 21-year-old programm
 ## 🛠️ Tools / Herramientas:
 ![TOOLS](https://skillicons.dev/icons?i=vscode,idea,git,github,discorc)
 
+## 📚 Lerning places
+![Udemy Badge](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=for-the-badge) ![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff&style=for-the-badge) ![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge) ![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge) ![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=for-the-badge) 
+
 # 📊 GitHub Stats / Estadisticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=santyago43&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santyago43&theme=tokyonight&hide_border=false)<br/>
