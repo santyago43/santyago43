@@ -18,7 +18,7 @@ Hello, fellow code voyager! 👋 I'm Santiago, a passionate 21-year-old programm
 ![TOOLS](https://skillicons.dev/icons?i=vscode,idea,git,github,discorc)
 
 # 📊 GitHub Stats / Estadisticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=santyago43&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=santyago43&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santyago43&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=santyago43&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
