@@ -5,8 +5,7 @@ Hello, fellow code voyager! 👋 I'm Santiago, a passionate 21-year-old programm
 ¡Hola, viajero de código! 👋 Soy Santiago, un apasionado programador de 21 años procedente de Colombia. Me considero un aprendiz, siempre sediento de conocimiento y con una determinación inquebrantable para destacar en el universo tecnológico.<br><br>Mi entusiasmo por la programación es insaciable y mi meta es no solo aprender, ¡sino destacar! Anhelo participar en proyectos que desafíen mis límites, aportar con mi creatividad y devorar desafíos como un entusiasta del código.<br><br>Me encanta sumergirme en el mundo del desarrollo y explorar nuevas tecnologías. Siempre estoy buscando oportunidades para crecer y colaborar con mentes brillantes. ¡Juntos, podemos construir un futuro digital impresionante!
 
 ## 🌐 Socials / Redes sociales:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/santiago-lopez-vallejo-b1b396264) 
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/santiago-lopez-vallejo-b1b396264) [![Twitter](https://skillicons.dev/icons?i=twitter)](#) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/notSant1ago/)
 # 💻 My Skills:
 
 ## ⌨️ Languages Learned / Lenguajes aprendidos:
