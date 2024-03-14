@@ -9,10 +9,10 @@ Hello, fellow code voyager! 👋 I'm Santiago, a passionate 21-year-old programm
 # 💻 My Skills:
 
 ## ⌨️ Languages Learned / Lenguajes aprendidos:
-![LANGUAGES](https://skillicons.dev/icons?i=java,css,html,angular)
+![LANGUAGES](https://skillicons.dev/icons?i=java,css,html,angular,cs)
 
 ## 📝 Languages to learn / Lenguajes por aprender
-![LEARN](https://skillicons.dev/icons?i=cs,py,php,js,react,mysql,postgres)
+![LEARN](https://skillicons.dev/icons?i=php,js,react,mysql,postgres)
 
 ## 🛠️ Tools / Herramientas:
 ![TOOLS](https://skillicons.dev/icons?i=vscode,idea,git,github,discorc)
