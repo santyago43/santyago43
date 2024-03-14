@@ -15,7 +15,7 @@ Hello, fellow code voyager! 👋 I'm Santiago, a passionate 21-year-old programm
 ![LEARN](https://skillicons.dev/icons?i=php,js,react,mysql,postgres)
 
 ## 🛠️ Tools / Herramientas:
-![TOOLS](https://skillicons.dev/icons?i=vscode,idea,git,github,discorc)
+![TOOLS](https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,discord)
 
 ## 📚 Lerning places
 [![Udemy Badge](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=for-the-badge)](https://www.udemy.com) [![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff&style=for-the-badge)](https://www.freecodecamp.org) [![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)](https://www.hackerrank.com/profile/santyago43) [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com)
