@@ -12,7 +12,7 @@ Hello, fellow code voyager! 👋 I'm Santiago, a passionate 21-year-old programm
 ![LANGUAGES](https://skillicons.dev/icons?i=java,css,html,angular,cs)
 
 ## 📝 Languages to learn / Lenguajes por aprender
-![LEARN](https://skillicons.dev/icons?i=php,js,react,mysql,postgres)
+![LEARN](https://skillicons.dev/icons?i=flutter,php,js,react,mysql,postgres)
 
 ## 🛠️ Tools / Herramientas:
 ![TOOLS](https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,discord)
