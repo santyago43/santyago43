@@ -5,7 +5,10 @@ Hello, fellow code voyager! 👋 I'm Santiago, a passionate 22-year-old programm
 ¡Hola, viajero de código! 👋 Soy Santiago, un apasionado programador de 22 años procedente de Colombia. Me considero un aprendiz, siempre sediento de conocimiento y con una determinación inquebrantable para destacar en el universo tecnológico.<br><br>Mi entusiasmo por la programación es insaciable y mi meta es no solo aprender, ¡sino destacar! Anhelo participar en proyectos que desafíen mis límites, aportar con mi creatividad y devorar desafíos como un entusiasta del código.<br><br>Me encanta sumergirme en el mundo del desarrollo y explorar nuevas tecnologías. Siempre estoy buscando oportunidades para crecer y colaborar con mentes brillantes. ¡Juntos, podemos construir un futuro digital impresionante!
 
 ## 🌐 Socials / Redes sociales:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/santiago-lopez-vallejo-b1b396264) [![Twitter](https://skillicons.dev/icons?i=twitter)](#) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/notSant1ago/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/santyago43/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/notSant1ago/)
+
+## 🛫 Freelance
+[![Bots](https://skillicons.dev/icons?i=bots)](https://tlh-d5b.pages.dev)
 # 💻 My Skills:
 
 ## ⌨️ Languages Learned / Lenguajes aprendidos:
@@ -17,7 +20,7 @@ Hello, fellow code voyager! 👋 I'm Santiago, a passionate 22-year-old programm
 ## 🛠️ Tools / Herramientas:
 ![TOOLS](https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,discord)
 
-## 📚 Lerning places
+## 📚 Lerning places / Paginas de aprendizaje
 [![Udemy Badge](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=for-the-badge)](https://www.udemy.com) [![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff&style=for-the-badge)](https://www.freecodecamp.org) [![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)](https://www.hackerrank.com/profile/santyago43) [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com) [![LeetCode Profile](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/santyago43/)
 
 # 📊 GitHub Stats / Estadisticas de GitHub:
