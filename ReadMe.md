@@ -7,15 +7,13 @@ Hello, fellow code voyager! 👋 I'm Santiago, a passionate 22-year-old programm
 ## 🌐 Socials / Redes sociales:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/santyago43/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/notSant1ago/)
 
-## 🛫 Freelance
-[![Bots](https://skillicons.dev/icons?i=bots)](https://tlh-d5b.pages.dev)
 # 💻 My Skills:
 
 ## ⌨️ Languages Learned / Lenguajes aprendidos:
-![LANGUAGES](https://skillicons.dev/icons?i=java,css,html,angular,cs)
+![LANGUAGES](https://skillicons.dev/icons?i=java,css,html,angular,cs,mysql,react)
 
 ## 📝 Languages to learn / Lenguajes por aprender
-![LEARN](https://skillicons.dev/icons?i=flutter,php,js,react,vue,mysql,postgres)
+![LEARN](https://skillicons.dev/icons?i=flutter,php,js,vue,postgres)
 
 ## 🛠️ Tools / Herramientas:
 ![TOOLS](https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,discord)
